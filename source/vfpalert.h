@@ -51,11 +51,11 @@
 	** 提醒设置界面的默认 'CAPTIONS'
 	** 特别感谢 Emerson Stanton 的反馈和建议！
 
-	#Define DA_SETTINGS				"提醒设置"
-	#Define	DA_LBLHOWLONG			"提醒应在屏幕上显示多长时间？"
+	#Define DA_SETTINGS				"桌面提醒设置"
+	#Define	DA_LBLHOWLONG			"提醒在屏幕上显示的时长："
 	#Define DA_LBLSECONDS			"秒"
-	#Define	DA_LBLHOWTRANSPARENT	"提醒应具有的透明度？"
-	#Define DA_LBLPERCENT			"百分比"
+	#Define	DA_LBLHOWTRANSPARENT	"提醒具有的透明度："
+	#Define DA_LBLPERCENT			"%"
 	#Define DA_CHKSOUND				"提醒出现时播放声音"
 	#Define DA_CMDOK				"确定(\<O)"
 	#Define DA_CMDCANCEL			"取消"
