@@ -12,7 +12,8 @@
 
 如果你对这个项目由兴趣并愿意帮助 Kevin ，请与其联系： https://github.com/KevinRagsdale
 
-[PDF 格式的桌面提醒白皮书](docs/DesktopAlerts.pdf)
+[PDF 格式的桌面提醒白皮书_英文](docs/DesktopAlerts.pdf)
 
 [示例表单_英文](sample/DeskAlertSampleForm.zip)
+
 [示例表单_中文](sample/DeskAlertSampleForm_CN.zip)
