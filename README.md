@@ -14,4 +14,5 @@
 
 [PDF 格式的桌面提醒白皮书](docs/DesktopAlerts.pdf)
 
-[示例表单](sample/DeskAlertSampleForm.zip)
+[示例表单_英文](sample/DeskAlertSampleForm.zip)
+[示例表单_中文](sample/DeskAlertSampleForm_CN.zip)
