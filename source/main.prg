@@ -297,7 +297,11 @@ DEFINE CLASS AlertManager AS Session OLEPUBLIC
 	** Description.......: Error handler
 	************************************************************
 	FUNCTION Error (nError, cMethod, nLine)
-		COMRETURNERROR("Desktop Alert Error","ErrNo: " + TRANSFORM(nError) + " - Method: " + ALLTRIM(cMethod) + " - LineNo: " + TRANSFORM(nLine))
+		If Version(3) = [86]
+			COMRETURNERROR("◊¿√ÊÃ·–—¥ÌŒÛ","¥ÌŒÛ±‡∫≈: " + TRANSFORM(nError) + " - ¥ÌŒÛ∑Ω∑®: " + ALLTRIM(cMethod) + " - ¥ÌŒÛ––∫≈: " + TRANSFORM(nLine))
+		Else
+			COMRETURNERROR("Desktop Alert Error","ErrNo: " + TRANSFORM(nError) + " - Method: " + ALLTRIM(cMethod) + " - LineNo: " + TRANSFORM(nLine))
+		EndIf 
 	ENDFUNC
 	
 	************************************************************
