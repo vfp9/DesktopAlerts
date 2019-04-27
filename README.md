@@ -14,7 +14,7 @@
 
 [PDF 格式的桌面提示白皮书_英文](docs/DesktopAlerts.pdf)
 
-[PDF 格式的桌面提示白皮书_中文](docs/DesktopAlerts_CN.pdf)
+[PDF 格式的桌面提示白皮书_中文](docs/DesktopAlert_CN.pdf)
 
 [示例表单_英文](sample/DeskAlertSampleForm.zip)
 
