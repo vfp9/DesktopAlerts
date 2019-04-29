@@ -19,3 +19,11 @@
 [示例表单_英文](sample/DeskAlertSampleForm.zip)
 
 [示例表单_中文](sample/DeskAlertSampleForm_CN.zip)
+
+
+##
+NODE:
+
+修改了 VFPAlert.H 文件。通过编辑 .H 文件可增加多语种支持。
+
+Now, you can compile your native version of the EXE and just edit VFPAlert.H file.
